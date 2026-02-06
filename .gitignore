@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+/interim/*
+/decide/*
+/variables_ready_for_cluster/*
